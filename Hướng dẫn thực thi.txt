@@ -1,0 +1,10 @@
+B1: Chạy file 19127646_server.jar
+B2: Chạy file 19127646_client.jar
+B3: Tạo tài khoản bằng nút register
+B4: Đăng nhập bằng tài khoản vừa tạo hoặc tài khoản có sẵn tỏng file chatter.txt
+B5: Chat
+----------------
+- server và client có thể nằm ở 2 nơi độc lập
+- 19127646_server.jar phải nằm cùng thư mục với file chatter.txt
+----------------
+Chức năng bổ sung: chat group
